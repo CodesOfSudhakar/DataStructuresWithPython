@@ -46,9 +46,7 @@ print("\n Unpacking a List")
 
 print(*listVariable, sep='---')
 
-print("\n Unpacking a List")
 
-print(*listVariable, sep='---')
 
 #Using FLUSH parameter -- This is used to explicity force the Python to print the value to the console immediately
 #when set to TRUE. Otherwise python will internally decide when to print it., For example. While printing a list
